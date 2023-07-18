@@ -1,4 +1,4 @@
-name of facilty 
+name of facilty =
 class Resident:
     def __init__(self, name, room_number):
         self.name = name
